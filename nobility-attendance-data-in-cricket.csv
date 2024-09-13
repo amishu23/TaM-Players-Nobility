@@ -1,0 +1,16 @@
+playerName,eventDay,eventType,ballType,present,presentTamCancel,unavailable,absentWithContact,absentNoContact,runs,wickets,catches
+Muster Rahman,2023-10-14,Training,RedSoft,Yes,No,No,No,No,None,None,None
+Foster Clarke,2023-10-14,Training,RedSoft,Yes,No,No,No,No,None,None,None
+Venkat Prasad,2023-10-14,Training,RedSoft,Yes,No,No,No,No,None,None,None
+Foster Brown,2023-10-14,Training,RedSoft,No,No,Yes,No,No,None,None,None
+Foster David,2023-10-14,Training,RedSoft,No,No,No,Yes,No,None,None,None
+Anik Mishu,2023-10-14,Training,RedSoft,No,No,No,No,Yes,None,None,None
+Tamim Iqbal,2023-10-14,Training,RedSoft,Yes,No,No,No,No,None,None,None
+Muster Rahman,2023-10-15,Match Practice,RedSoft,Yes,No,No,No,No,5,0,0
+Foster Clarke,2023-10-15,Match Practice,RedSoft,Yes,No,No,No,No,12,2,1
+Venkat Prasad,2023-10-15,Match Practice,RedSoft,Yes,No,No,No,No,8,5,2
+Tamim Iqbal,2023-10-15,Match Practice,RedSoft,Yes,No,No,No,No,45,0,3
+Muster Rahman,2023-10-14,Training,RedSoft,Yes,Yes,No,No,No,None,None,None
+Foster Clarke,2023-10-14,Training,RedSoft,Yes,Yes,No,No,No,None,None,None
+Venkat Prasad,2023-10-14,Training,RedSoft,Yes,Yes,No,No,No,None,None,None
+Tamim Iqbal,2023-10-14,Training,RedSoft,Yes,Yes,No,No,No,None,None,None
